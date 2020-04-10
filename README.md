@@ -7,8 +7,8 @@
 创建型模式（关注对象的创建）   
 
 1、[单例模式](https://github.com/KDDGit/JAVA/blob/master/Singleton)      
-2、抽象工厂模式    
-3、工厂模式    
+2、[工厂模式](https://github.com/KDDGit/JAVA/edit/master/Factory.md)   
+3、[抽象工厂模式](https://github.com/KDDGit/JAVA/edit/master/Factory.md)    
 4、建造者模式   
 5、原型模式      
 
