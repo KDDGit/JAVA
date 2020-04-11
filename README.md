@@ -1,6 +1,6 @@
 # Java相关知识点  
 
-# [Java设计模式](https://github.com/KDDGit/JAVA/blob/master/JAVA%20Design%20Patterns/README.md) 
+## [Java设计模式](https://github.com/KDDGit/JAVA/blob/master/JAVA%20Design%20Patterns/README.md) 
 
 
 类：      
