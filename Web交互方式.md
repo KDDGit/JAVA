@@ -6,15 +6,15 @@
 
 ### 1、[介绍异步实时Web交互技术](介绍异步实时Web交互技术)
 
-### 2、[介绍 frame](介绍 frame)
+### 2、[介绍 frame](介绍frame)
 
-### 3、[讲解 JAX](讲解 JAX)
+### 3、[讲解 JAX](讲解JAX)
 
-### 4、[讲解 WebSocket](讲解 WebSocket)
+### 4、[讲解 WebSocket](讲解WebSocket)
 
 ### 5、[对比分析](对比分析)
 
-### 介绍异步实时Web交互技术
+## 介绍异步实时Web交互技术
 
 基于HTTP协议的Web交互（缺点：1、需要整页刷新、2、速度慢、3、有延迟）
 
@@ -39,15 +39,15 @@ Web实时交互方式：轮询、长轮询、长连接、推送
 推送：客户端和服务端建立连接后，服务端和客户端相互推送数据       
 
 
-### 介绍 frame
+## 介绍frame
 
 暂略
 
-### 讲解 JAX
+## 讲解JAX
 
 暂略
 
-### 讲解 WebSocket
+## 讲解WebSocket
 
 WebSocket协议通信机制：WebSocket协议是独立的基于TCP的协议
 
@@ -172,7 +172,7 @@ public class WebSocketDemo {
 
 
 
-### 对比分析
+## 对比分析
 
 
 
