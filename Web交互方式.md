@@ -140,7 +140,7 @@ import javax.Websocket.OnMessage;
 import javax.Websocket.OnOpen; 
 import javax.Websocket.Session; 
 import javax.Websocket.server.ServerEndpoint;  
-// @ServerEndpoint注解是一个类层次的注解，将当前的类定义成一个WebSocket服务器端，其中的值将被用于监听用户连接的终端。 @ServerEndpoint("/Websocket")　  
+// @ServerEndpoint注解是一个类层次的注解，将当前的类定义成一个WebSocket服务器端，其中的值将被用于监听用户连接的终端。                   @ServerEndpoint("/Websocket")　  
 public class WebSocketDemo {  
       @OnMessage　  
       public void onMessage(String message, Session session) { 　
